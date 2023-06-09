@@ -37,7 +37,7 @@ let package = Package(
                 "Resources/Controller Skin/ipad_splitview_landscape.pdf"
             ],
             resources: [
-                .copy("Resources/Controller Skin/Standard.deltaskin"),
+                .copy("Resources/Controller Skin/Standard.ignitedskin"),
                 .copy("Resources/Standard.deltamapping"),
             ]
         ),
