@@ -39,6 +39,10 @@ let package = Package(
             resources: [
                 .copy("Resources/Controller Skin/Standard.ignitedskin"),
                 .copy("Resources/Standard.deltamapping"),
+                .copy("Resources/Controller Skin/Standard-com.rileytestut.MSDeltaCore.ignitedskin"),
+                .copy("Resources/Standard-com.rileytestut.MSDeltaCore.deltamapping"),
+                .copy("Resources/Controller Skin/Standard-com.rileytestut.GGDeltaCore.ignitedskin"),
+                .copy("Resources/Standard-com.rileytestut.GGDeltaCore.deltamapping"),
             ]
         ),
         .target(

@@ -9,3 +9,5 @@
 #import "GPGXTypes.h"
 
 GameType const GameTypeGenesis = @"com.rileytestut.delta.game.genesis";
+GameType const GameTypeMasterSystem = @"com.rileytestut.delta.game.ms";
+GameType const GameTypeGameGear = @"com.rileytestut.delta.game.gg";

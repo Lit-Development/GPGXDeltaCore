@@ -14,3 +14,5 @@
 
 // Extensible Enums
 FOUNDATION_EXPORT GameType const GameTypeGenesis NS_SWIFT_NAME(genesis);
+FOUNDATION_EXPORT GameType const GameTypeMasterSystem NS_SWIFT_NAME(ms);
+FOUNDATION_EXPORT GameType const GameTypeGameGear NS_SWIFT_NAME(gg);

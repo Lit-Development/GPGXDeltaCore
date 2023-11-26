@@ -27,3 +27,41 @@ import DeltaCore
     case start = 0x080
     case mode = 0x800
 }
+
+@objc public enum MSGameInput: Int, _Input
+{
+    case up = 0x01
+    case down = 0x02
+    case left = 0x04
+    case right = 0x08
+    
+    case a = 0x40
+    case b = 0x10
+    case c = 0x20
+    
+    case x = 0x400
+    case y = 0x200
+    case z = 0x100
+    
+    case start = 0x080
+    case mode = 0x800
+}
+
+@objc public enum GGGameInput: Int, _Input
+{
+    case up = 0x01
+    case down = 0x02
+    case left = 0x04
+    case right = 0x08
+    
+    case a = 0x40
+    case b = 0x10
+    case c = 0x20
+    
+    case x = 0x400
+    case y = 0x200
+    case z = 0x100
+    
+    case start = 0x080
+    case mode = 0x800
+}
