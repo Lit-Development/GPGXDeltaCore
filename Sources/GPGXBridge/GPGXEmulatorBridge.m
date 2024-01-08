@@ -235,10 +235,4 @@ void osd_input_update(void)
 {
 }
 
-#pragma mark - Palette -
-
-- (void)updatePalette
-{
-}
-
 @end
