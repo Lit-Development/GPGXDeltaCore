@@ -1,7 +1,7 @@
 {
   "name": "Standard Genesis",
-  "identifier": "com.delta.genesis.standard",
-  "gameTypeIdentifier": "com.rileytestut.delta.game.genesis",
+  "identifier": "com.ignited.genesis.standard",
+  "gameTypeIdentifier": "com.litritt.ignited.game.genesis",
   "debug": false,
   "representations": {
     "iphone": {

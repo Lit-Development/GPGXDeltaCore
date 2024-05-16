@@ -8,6 +8,6 @@
 
 #import "GPGXTypes.h"
 
-GameType const GameTypeGenesis = @"com.rileytestut.delta.game.genesis";
-GameType const GameTypeMasterSystem = @"com.rileytestut.delta.game.ms";
-GameType const GameTypeGameGear = @"com.rileytestut.delta.game.gg";
+GameType const GameTypeGenesis = @"com.litritt.ignited.game.genesis";
+GameType const GameTypeMasterSystem = @"com.litritt.ignited.game.ms";
+GameType const GameTypeGameGear = @"com.litritt.ignited.game.gg";
